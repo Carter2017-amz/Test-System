@@ -1,0 +1,10 @@
+C:\Users\snego\source\repos\EmailManager\EmailManager\bin\Debug\EmailManager.exe.config
+C:\Users\snego\source\repos\EmailManager\EmailManager\bin\Debug\EmailManager.exe
+C:\Users\snego\source\repos\EmailManager\EmailManager\bin\Debug\EmailManager.pdb
+C:\Users\snego\source\repos\EmailManager\EmailManager\obj\Debug\EmailManager.csproj.AssemblyReference.cache
+C:\Users\snego\source\repos\EmailManager\EmailManager\obj\Debug\EmailManager.Form1.resources
+C:\Users\snego\source\repos\EmailManager\EmailManager\obj\Debug\EmailManager.Properties.Resources.resources
+C:\Users\snego\source\repos\EmailManager\EmailManager\obj\Debug\EmailManager.csproj.GenerateResource.cache
+C:\Users\snego\source\repos\EmailManager\EmailManager\obj\Debug\EmailManager.csproj.CoreCompileInputs.cache
+C:\Users\snego\source\repos\EmailManager\EmailManager\obj\Debug\EmailManager.exe
+C:\Users\snego\source\repos\EmailManager\EmailManager\obj\Debug\EmailManager.pdb
