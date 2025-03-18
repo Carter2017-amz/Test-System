@@ -51,3 +51,4 @@ namespace EmailManager
         }
     }
 }
+// ТЕСТОВАЯ ВЕРСИЯ
