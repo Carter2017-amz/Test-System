@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\snego\\source\\repos\\EmailManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F3F067D-D54F-43AF-95E8-518F39C1FD03}|EmailManager\\EmailManager.csproj|c:\\users\\snego\\source\\repos\\emailmanager\\emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3F067D-D54F-43AF-95E8-518F39C1FD03}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F3F067D-D54F-43AF-95E8-518F39C1FD03}|EmailManager\\EmailManager.csproj|C:\\Users\\snego\\source\\repos\\EmailManager\\emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F3F067D-D54F-43AF-95E8-518F39C1FD03}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3F067D-D54F-43AF-95E8-518F39C1FD03}|EmailManager\\EmailManager.csproj|c:\\users\\snego\\source\\repos\\emailmanager\\emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3F067D-D54F-43AF-95E8-518F39C1FD03}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F3F067D-D54F-43AF-95E8-518F39C1FD03}|EmailManager\\EmailManager.csproj|C:\\Users\\snego\\source\\repos\\EmailManager\\emailmanager\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\snego\\source\\repos\\EmailManager\\EmailManager\\Form1.cs",
               "RelativeDocumentMoniker": "EmailManager\\Form1.cs",
               "ToolTip": "C:\\Users\\snego\\source\\repos\\EmailManager\\EmailManager\\Form1.cs",
               "RelativeToolTip": "EmailManager\\Form1.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwC0AAAANAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T14:13:04.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\snego\\source\\repos\\EmailManager\\EmailManager\\Form1.cs",
               "RelativeDocumentMoniker": "EmailManager\\Form1.cs",
